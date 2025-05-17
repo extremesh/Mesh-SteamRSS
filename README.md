@@ -1,19 +1,24 @@
 # Mesh-SteamRSS v1.0<br />
 A simple RSS/XML Script which will extract your recent Steam Gaming Activity.
 <br /><br />
-<hr />
-<br />► Mesh-SteamRSS v1.0 -  A RSS/XML Feed for your Steam Gaming Activity
-<br />► made by Ramesh Hetfield (eXtreMesh)
-<br />► project page:
-<br />► follow on BlueSky: https://ramesh.my/?bluesky
-<br />► on Discord: https://ramesh.my/?discord <br />
-<hr />
+<img src="https://meshra.net/wp-content/uploads/2025/05/Mesh-SteamRSSThumb-1024x582.jpg" width="75%" />
+
 <br /><br />
 <b><ins>What The Script Does</ins>?</b> <br /><br />
 Extracts your Steam Gaming Activity in the last 2 weeks and creates a simple RSS / XML Feed which you can use to display on any websites or for automation purposes. <br />
 Will display the total 'Game time' played of a specific Game and also the amount of "Achievements" unlocked.<br />
 eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <br />
+
+<br /><br />
+<hr />
+<br />► Mesh-SteamRSS v1.0 -  A RSS/XML Feed for your Steam Gaming Activity
+<br />► made by Ramesh Hetfield (eXtreMesh)
+<br />► project page: https://meshra.net/?p=270
+<br />► follow on BlueSky: https://ramesh.my/?bluesky
+<br />► on Discord: https://ramesh.my/?discord <br />
+<hr />
+
 
 <b><ins> Live Demo</ins> (with my Steam Activity):</b> <br />
 http://app.ramx.cc/steamRSS.php
