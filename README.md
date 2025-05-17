@@ -15,7 +15,7 @@ Will display the total 'Game time' played of a specific Game and also the amount
 eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <br />
 
-<b><ins> Live Demo (with my Steam Activity)</ins>:</b> <br />
+<b><ins> Live Demo</ins> (with my Steam Activity):</b> <br />
 http://app.ramx.cc/steamRSS.php
 <br /><br />
 
