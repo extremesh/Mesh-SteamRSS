@@ -12,20 +12,12 @@ eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <hr />
 
 <b>Usage, Guide & More Information:</b> <br />
-https://meshra.net/?p=270
+https://meshra.net/?p=270 <br />
 
 <b>Live Demo (With my own Steam Activity):</b> <br />
-http://app.ramx.cc/steamRSS.php
+http://app.ramx.cc/steamRSS.php <br />
 
-<b><ins>Limitation</ins>:</b> <br /><br />
-Steam Web Api Key only provides data for data of last 2 Weeks and there is no correct 'Date' to be captured and populated in the RSS 'Date'.<br />
-<br />
 
-<b><ins>Next Version</ins>?</b> <br />
-- To try and see if an estimated time can be added as date in the script.
-- Add thumbnail for each game (for now you can get the AppID of the game from the permLink and get the Image).
-- Simple database for storing.
-- Hosting option for those with no server.
 <br /><br />
 
 <b><ins>How It Looks</ins>?</b> <br /><br />
