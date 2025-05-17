@@ -30,9 +30,6 @@ Like my work? Tip or Buy me a coffee and it will be much appreciated: https://ra
 <br /><br />
 
 Now, get your gaming activity exposed to the world!
-<b><ins>Help / Support / Contact</ins>?</b> <br /><br />
-You can reply to the project post on the below link on my Bluesky account: <br />
-link
 <br />
 
 
