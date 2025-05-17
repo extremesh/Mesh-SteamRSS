@@ -5,7 +5,7 @@ A simple RSS/XML Script which will extract your recent Steam Gaming Activity.
 
 <br /><br />
 <b>What The Script Does?</b> <br /><br />
-Extracts your Steam Gaming Activity in the last 2 weeks and creates a simple RSS / XML Feed which you can use to display on any websites or for automation purposes. <br />
+Extracts your Steam Gaming Activity in the last 2 weeks and creates a simple RSS / XML Feed which you can use to display on any websites or for automation purposes.
 Will display the total 'Game time' played of a specific Game and also the amount of "Achievements" unlocked.<br />
 eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <br />
