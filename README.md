@@ -17,13 +17,19 @@ https://meshra.net/?p=270 <br />
 <b>Live Demo (With my own Steam Activity):</b> <br />
 http://app.ramx.cc/steamRSS.php <br />
 
+<b>Screenshot (if you are lazy to run the above script):</b> <br />
+https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png <br />
 
+<b>Contact, Help or Just to Say Hi!:</b> <br />
+Please reply to my project BlueSky post and I will get back to you.<br />
+Link: <br />
+Or via discord: https://ramesh.my/?discord <br />
+
+<b>Want to Support me?</b> <br />
+Like my work? Tip or Buy me a coffee and it will be much appreciated: https://ramesh.my/?tip <br />
 <br /><br />
 
-<b><ins>How It Looks</ins>?</b> <br /><br />
-<img src="https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png?raw=true" width="75%">
-<br /><br />
-
+Now, get your gaming activity exposed to the world!
 <b><ins>Help / Support / Contact</ins>?</b> <br /><br />
 You can reply to the project post on the below link on my Bluesky account: <br />
 link
