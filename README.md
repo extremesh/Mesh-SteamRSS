@@ -1,13 +1,13 @@
 # Mesh-SteamRSS v1.0<br />
 A simple RSS/XML Script which will extract your recent Steam Gaming Activity.
 <br /><br />
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+<hr />
 <br />► Mesh-SteamRSS v1.0 -  A RSS/XML Feed for your Steam Gaming Activity
 <br />► made by Ramesh Hetfield (eXtreMesh)
 <br />► project page:
 <br />► follow on BlueSky: https://ramesh.my/?bluesky
 <br />► on Discord: https://ramesh.my/?discord <br />
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+<hr />
 <br /><br />
 **:: What The Script Does?**<br />
 Extracts your Steam Gaming Activity in the last 2 weeks and creates a simple RSS / XML Feed which you can use to display on any websites or for automation purposes. <br />
@@ -26,6 +26,8 @@ Steam Web Api Key only provides data for data of last 2 Weeks and there is no co
 <br /><br />
 
 **:: How It Looks?**<br />
+<img src="https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png?raw=true" width="75%">
+<br />
 
 
 
