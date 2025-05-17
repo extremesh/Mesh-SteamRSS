@@ -23,7 +23,7 @@ https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png <b
 <b>Contact, Help or Just to Say Hi!:</b> <br />
 Please reply to my project BlueSky post and I will get back to you.<br />
 Link: <br />
-Or via discord: https://ramesh.my/?discord <br />
+Or via discord: https://ramesh.my/?discord (slow reply)<br />
 
 <b>Want to Support me?</b> <br />
 Like my work? Tip or Buy me a coffee and it will be much appreciated: https://ramesh.my/?tip <br />
