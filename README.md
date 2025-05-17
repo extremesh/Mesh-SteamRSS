@@ -21,7 +21,7 @@ http://app.ramx.cc/steamRSS.php
 
 <b>● Limitation</b> <br />
 Steam Web Api Key only provides data for data of last 2 Weeks and there is no correct 'Date' to be captured and populated in the RSS 'Date'.<br />
-<br /><br />
+<br />
 
 <b>● Next Version?</b> <br />
 - To try and see if an estimated time can be added as date in the script.
@@ -30,9 +30,13 @@ Steam Web Api Key only provides data for data of last 2 Weeks and there is no co
 - Hosting option for those with no server.
 <br /><br />
 
-<b>● How It Looks?</b> <br />
+<b>● How It Looks?</b> <br /><br />
 <img src="https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png?raw=true" width="75%">
 <br /><br />
 
+<b>● Help / Support / Contact? </b> <br /><br />
+You can reply to the project post on the below link on my Bluesky account: <br />
+link
+<br />
 
 
