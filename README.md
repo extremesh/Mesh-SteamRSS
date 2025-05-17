@@ -4,19 +4,18 @@ A simple RSS/XML Script which will extract your recent Steam Gaming Activity.
 <img src="https://meshra.net/wp-content/uploads/2025/05/Mesh-SteamRSSThumb-1024x582.jpg" width="75%" />
 
 <br /><br />
-<b><ins>What The Script Does</ins>?</b> <br /><br />
+<b>What The Script Does?</b> <br /><br />
 Extracts your Steam Gaming Activity in the last 2 weeks and creates a simple RSS / XML Feed which you can use to display on any websites or for automation purposes. <br />
 Will display the total 'Game time' played of a specific Game and also the amount of "Achievements" unlocked.<br />
 eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <br />
-
 <hr />
 
-<b><ins>Usage, Guide & More Information</ins>:</b> <br />
-[http://app.ramx.cc/steamRSS.php](https://meshra.net/?p=270)
+<b>Usage, Guide & More Information:</b> <br />
+https://meshra.net/?p=270
 
-<b><ins>Usage, Guide & More Information</ins>:</b> <br />
-[http://app.ramx.cc/steamRSS.php](https://meshra.net/?p=270)
+<b>Live Demo (With my own Steam Activity):</b> <br />
+http://app.ramx.cc/steamRSS.php
 
 <b><ins>Limitation</ins>:</b> <br /><br />
 Steam Web Api Key only provides data for data of last 2 Weeks and there is no correct 'Date' to be captured and populated in the RSS 'Date'.<br />
