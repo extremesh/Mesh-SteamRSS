@@ -15,21 +15,22 @@ Will display the total 'Game time' played of a specific Game and also the amount
 eg. Works on IFTTT and Dlvr.It (as far I tested).<br />
 <br />
 
-<b>:: Live Demo of my Steam Activity:</b> <br /><br />
-http://app.ramx.cc/steamRSS.php <br />
+<b>Live Demo of my Steam Activity:</b> <br /><br />
+http://app.ramx.cc/steamRSS.php
 <br /><br />
 
-<b>:: Limitation</b> <br /><br />
+<b>Limitation</b> <br /><br />
 Steam Web Api Key only provides data for data of last 2 Weeks and there is no correct 'Date' to be captured and populated in the RSS 'Date'.<br />
 <br /><br />
 
-<b>:: Next Version?</b> <br /><br />
+<b>Next Version?</b> <br /><br />
 - To try and see if an estimated time can be added as date in the script.
 - Add thumbnail for each game (for now you can get the AppID of the game from the permLink and get the Image).
 - Simple database for storing.
+- Hosting option for those with no server.
 <br /><br />
 
-**:: How It Looks?** <br /><br />
+<b>How It Looks?</b> <br /><br />
 <img src="https://github.com/extremesh/Mesh-SteamRSS/blob/main/Mesh-SteamRSS%20v1.0.png?raw=true" width="75%">
 <br /><br />
 
