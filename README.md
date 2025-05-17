@@ -23,7 +23,7 @@ http://app.ramx.cc/steamRSS.php
 Steam Web Api Key only provides data for data of last 2 Weeks and there is no correct 'Date' to be captured and populated in the RSS 'Date'.<br />
 <br />
 
-<b><ins>Next Version</ins>?</b> <br /><br />
+<b><ins>Next Version</ins>?</b> <br />
 - To try and see if an estimated time can be added as date in the script.
 - Add thumbnail for each game (for now you can get the AppID of the game from the permLink and get the Image).
 - Simple database for storing.
